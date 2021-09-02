@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Virtul Human brian
+title: Virtul Human Brian
 date: 2021-09-02
 labels:
   - Software Engineering
