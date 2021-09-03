@@ -15,7 +15,7 @@ summary: A translator in alphabet for Morse Code.
 
 This Morse Code Translator is one of my sofeware programming project i wrote in uhunix server for ICS 212 class, the purpose of it is to translate the morse code word into English alphabet by enter the Morse code symbols into the string.
 
-<img class="ui medium right floated rounded image" src="../MorseCodeDefine.jpg">
+<img class="ui medium right floated rounded image" src="/images/MorseCodeDefine.jpg">
 
 From this project, I've learned about Morse code this famous method used in telecommunication to encode text characters in World War II. I was in charged of all the coding for this project and improved my C language skill by practice on this project.
 
