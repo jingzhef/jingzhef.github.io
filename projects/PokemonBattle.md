@@ -16,6 +16,8 @@ summary: My team developed a Pokemon battle game by using the Java programming l
 
 In the fall semester of school year 2020, my ICS 211 partner Eva Teresa and I developed a gaming sofeware program that supports two players and generated Pokemons with choosen species and choosen name but random HP value. The program allows you to catch different Pokemons with different characteristics like "Fire", "Water", "Poison", etc and different skills due to species, which may affect the battle outcome depends on the enermy's characteristics.
 
+<img class="ui medium right floated rounded image" src="/images/TypeAttackEffectivenessChart.jpg">
+
 For this project, Eva and I were in charged for almost every part of it because it was such a important and difficult project at the time to us. We shared opinions from genertating Pokemons, choose species, name the Pokemons, to settle players, the order of which player goes first, and how skill attcks is going to affect enermy's HP, and the game over screen. We both learned a lot of how Java can be running in one program but with many different related files.
 
 The following code is partial of my coding for the Pokemon project in Java  
