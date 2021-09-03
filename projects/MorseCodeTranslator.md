@@ -84,12 +84,9 @@ const char *morse[SIZE] = {
     "w .-- ",
     "x -..- ",
     "y -.-- ",
-    "z --.. ",
-    
+    "z --.. ", 
 };
-
 int main(int argc, char *argv[]){
-
     int i = 0;
     
     int j = 0;
