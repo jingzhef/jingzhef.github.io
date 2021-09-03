@@ -27,41 +27,25 @@ The following code is my contribution to this project
  * 03/08/2021
  */
 #include <stdio.h>
-
 #include <ctype.h>
-
 #include <string.h>
-
 #define SIZE 36
 
 const char *morse[SIZE] = {
 
     "0 ----- ",
-    
-    "1 .---- ",
-    
-    "2 ..--- ",
-    
-    "3 ...-- ",
-    
-    "4 ....- ",
-    
-    "5 ..... ",
-    
-    "6 -.... ",
-    
-    "7 --... ",
-    
-    "8 ---.. ",
-    
-    "9 ----. ",
-    
-    "a .- ",
-    
-    "b -... ",
-    
-    "c -.-. ",
-    
+    "1 .---- ",   
+    "2 ..--- ",    
+    "3 ...-- ",    
+    "4 ....- ",    
+    "5 ..... ",    
+    "6 -.... ",    
+    "7 --... ",    
+    "8 ---.. ",    
+    "9 ----. ",    
+    "a .- ",    
+    "b -... ",    
+    "c -.-. ",    
     "d -.. ",
     "e . ",
     "f ..-. ",
@@ -97,18 +81,12 @@ int main(int argc, char *argv[]){
     
     //error checking  
     if(argc < 2) { //if the commandline is less than 2 that means nothing has been input
-    
         puts("ERROR: You only typed the executable. Enter the Morse Code on the commandline.");
-        
         return 0;
-    } else {
-    
+    } else {  
     //loop through the commandline input
-    for(i = 0; i < argc; i++ ){
-    
-    
+    for(i = 0; i < argc; i++ ){   
         length = strlen(argv[i]); //length of the string in 'i' index
-
         //convert Morse Code to letter
         for (j = 0; j < SIZE; j++) {  
             if(length == (strlen(morse[j]) - 3)) { //take out the length of the space and letter in the string
