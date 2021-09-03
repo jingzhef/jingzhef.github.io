@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: Possibilities and Wealthy in Software Enginerring
+date: 2021-09-02
 labels:
   - Software Engineering
-  - Learning
+  - Goals
+  - career
 ---
 
 Inspiration
