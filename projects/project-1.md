@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/PokemonBattle.jpg
+image: images/PokemonBall.png
 title: Pokemon Battle
 permalink: projects/PokemonBattle
 date: 2021-09-02
@@ -12,7 +12,7 @@ labels:
 summary: My team developed a Pokemon battle game by using the Java programming language in the fall semester of 2020. 
 ---
 
-<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+<img class="ui medium right floated rounded image" src="/images/PokemonBattle.png">
 
 In the fall semester of school year 2020, my ICS 211 partner Eva Teresa and I developed a gaming sofeware program that supports two players and generated Pokemons with choosen species and choosen name but random HP value. The program allows you to catch different Pokemons with different characteristics like "Fire", "Water", "Poison", etc and different skills due to species, which may affect the battle outcome depends on the enermy's characteristics.
 
