@@ -27,11 +27,15 @@ The following code is my contribution to this project
  * 03/08/2021
  */
 #include <stdio.h>
+
 #include <ctype.h>
+
 #include <string.h>
+
 #define SIZE 36
 
 const char *morse[SIZE] = {
+
     "0 ----- ",
     
     "1 .---- ",
@@ -81,19 +85,29 @@ const char *morse[SIZE] = {
     "x -..- ",
     "y -.-- ",
     "z --.. ",
+    
 };
 
 int main(int argc, char *argv[]){
+
     int i = 0;
+    
     int j = 0;
+    
     int length = 0;
+    
     //error checking  
     if(argc < 2) { //if the commandline is less than 2 that means nothing has been input
+    
         puts("ERROR: You only typed the executable. Enter the Morse Code on the commandline.");
+        
         return 0;
     } else {
+    
     //loop through the commandline input
     for(i = 0; i < argc; i++ ){
+    
+    
         length = strlen(argv[i]); //length of the string in 'i' index
 
         //convert Morse Code to letter
