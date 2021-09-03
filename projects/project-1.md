@@ -10,6 +10,7 @@ labels:
   - Gaming
   - C++
 summary: My team developed a Pokemon battle game by using the Java programming language in the fall semester of 2020. 
+---
 
 <img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
 
