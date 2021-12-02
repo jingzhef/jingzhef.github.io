@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Scientific Experiment in Coding
-date: 2021-09-02
+date: 2021-12-02
 labels:
   - Design Patterns
   - Reflection
