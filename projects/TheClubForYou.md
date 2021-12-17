@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MorseCode.jpg
+image: images/TCFYHomePage.png
 title: The Club For You at UHM
 permalink: projects/TheClubForYou
 # All dates must be YYYY-MM-DD format!
