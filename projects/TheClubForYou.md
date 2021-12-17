@@ -22,6 +22,8 @@ The Club for You is a project website me and my team developed in my 2021 fall s
 
 ### Contribution
 My duties in this project was to set up the "Sign up" page and "Register" page for users to create an account in our webiste database. And I added a "Faviorite" button under each clubs, so users will be able to store some of their faviorite clubs in another collection. Most importantly, I was arranging the team to working on each sections, and set up group meeting and doing all other tasks as a team leader.
+
+<image src="/images/Favorite.png">
 	
 ### Learning
-During the process of this project, my team and I have discussed and solved many functional programming problems that helps the site works better
+During the process of this project, my team and I have discussed and solved many encountered functional programming problems that helps the site works better. I have learn more deeply about how meteor, html and css works in web development, I have learned how to use testCafe to test out whether the pages are functioning correctly or not, I have learned how to deploy my project to a domain and set a custome domain name for the website, and I have learned the connections between shcemas and data collection, but most importantly is that I have experienced the matter of team works
