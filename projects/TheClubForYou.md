@@ -19,7 +19,7 @@ The Club for You is a project website me and my team developed in my 2021 fall s
 
 <image src="/images/TCFYHomePage.png">
 
-##Contribution
+### Contribution
 My duties in this project was to set up the "Sign up" page and "Register" page for users to create an account in our webiste database. And I added a "Faviorite" button under each clubs, so users will be able to store some of their faviorite clubs in another collection. Most importantly, I was arranging the team to working on each sections, and set up group meeting and doing all other tasks as a team leader.
 	
 ##Learning
