@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: The way to a easier computer science school life 
 date: 2021-09-30
 labels:
