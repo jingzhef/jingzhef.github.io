@@ -15,7 +15,7 @@ labels:
 summary: Designed for UH students to explore all the interesting clubs in campus
 ---
 
-	The Club for You is a project website me and my team developed in my 2021 fall semester. The purpose of the site aims to provide a directory of UH Manoa studetn clubs for new registered students who are looking to explore this new learning environment. Inside the web page, there will be explaination of each clubs and the detail informations related to that club, students are also allow to filter out their interest type of clubs. 
+The Club for You is a project website me and my team developed in my 2021 fall semester. The purpose of the site aims to provide a directory of UH Manoa studetn clubs for new registered students who are looking to explore this new learning environment. Inside the web page, there will be explaination of each clubs and the detail informations related to that club, students are also allow to filter out their interest type of clubs. 
 
 <image src="/images/TCFYHomePage.png">
 	
