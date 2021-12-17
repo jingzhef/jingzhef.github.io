@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: Be Smart Don't Be Lame
 date: 2021-09-09
 labels:
