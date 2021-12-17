@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: Possibilities and Wealthy in Software Enginerring
 date: 2021-09-02
 labels:
